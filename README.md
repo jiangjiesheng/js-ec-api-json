@@ -1,5 +1,8 @@
 安卓通用电商框架
 
+源码  https://gitee.com/jiangjiesheng/js-ec-api-json
+
+
 Android通用框架设计与完整电商App开发 json文件（接口数据文件）下载
 
 [http://d.jiangjiesheng.cn/sell/](http://d.jiangjiesheng.cn/sell/)
